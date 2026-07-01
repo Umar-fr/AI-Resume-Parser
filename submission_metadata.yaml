@@ -13,7 +13,7 @@ team_members:
     role: "Python Developer"
 
 github_repo: "https://github.com/Umar-fr/AI-Resume-Parser"
-sandbox_link: "TODO"
+sandbox_link: "https://ai-resume-parser-66wb8txeanshqvaj9b32jf.streamlit.app/"
 reproduce_command: "python rank.py --candidates data/candidates.jsonl --out outputs/submission.csv"
 
 compute:
