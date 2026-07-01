@@ -79,6 +79,18 @@ This checks the format requirements from the submission spec: exactly 100 rows, 
 
 ---
 
+## Sandbox
+
+Sandbox link: https://ai-resume-parser-66wb8txeanshqvaj9b32jf.streamlit.app/
+In the data folder there is a pre-loaded file called sample_candidates.json which is used to reproduce the working of this project. The output is in the outputs folder which can also be downloaded directly from the application interface after ranking.
+
+To run this locally: 
+```bash
+streamlit run app.py
+```
+
+Open this URL to access the app locally on browser: http://localhost:8502
+
 ## Running tests
 
 ```bash
