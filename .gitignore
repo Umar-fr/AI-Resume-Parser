@@ -12,4 +12,4 @@ outputs/*.csv
 !outputs/.gitkeep
 .DS_Store
 Thumbs.db
-Initial_findings.md
+findings.md
